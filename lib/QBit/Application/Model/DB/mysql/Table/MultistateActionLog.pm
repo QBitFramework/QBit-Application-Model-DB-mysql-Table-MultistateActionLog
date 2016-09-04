@@ -40,3 +40,33 @@ sub default_foreign_keys {
 }
 
 TRUE;
+
+__END__
+
+=encoding utf8
+
+=head1 Name
+ 
+QBit::Application::Model::DB::mysql::Table::MultistateActionLog - Base MySQL table for logging multistates actions.
+
+=head1 GitHub
+
+https://github.com/QBitFramework/QBit-Application-Model-DB-mysql-Table-MultistateActionLog
+
+=head1 Install
+
+=over
+
+=item *
+
+cpanm QBit::Application::Model::DB::mysql::Table::MultistateActionLog
+
+=item *
+
+apt-get install libqbit-application-model-db-mysql-table-multistateactionlog-perl (http://perlhub.ru/)
+
+=back
+
+For more information. please, see code.
+
+=cut
